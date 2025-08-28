@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/facilitative-leadership-in-the-public-sector/01_concepts_and_theories_of_facilitative_leadership_in_the_public_sector_v7-1080p_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-11-004-facilitative-leadership-in-the-public-sector-fall-2024/01_concepts_and_theories_of_facilitative_leadership_in_the_public_sector_v7-1080p_360p_16_9.mp4
 file_size: 80247687
 file_type: video/mp4
 image_metadata:
