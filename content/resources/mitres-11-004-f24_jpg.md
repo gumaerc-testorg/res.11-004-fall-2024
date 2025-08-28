@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/facilitative-leadership-in-the-public-sector/mitres-11-004-f24.jpg
+file: /ol-ocw-studio-app/courses/res-11-004-facilitative-leadership-in-the-public-sector-fall-2024/mitres-11-004-f24.jpg
 file_size: 42258
 file_type: image/jpeg
 image_metadata:
