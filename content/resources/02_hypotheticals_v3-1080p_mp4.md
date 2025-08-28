@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/facilitative-leadership-in-the-public-sector/02_hypotheticals_v3-1080p_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-11-004-facilitative-leadership-in-the-public-sector-fall-2024/02_hypotheticals_v3-1080p_360p_16_9.mp4
 file_size: 98846152
 file_type: video/mp4
 image_metadata:
